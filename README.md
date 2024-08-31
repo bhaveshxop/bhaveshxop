@@ -21,7 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on [Thinking];
 - 🌱 I’m currently learning React and c#; 
 - 👯 I’m looking to collaborate 🤝;
-- 💬 Ask me about anything, I am happy to help;
 - ⚡️ I have won 3 hackathons;
 - 📫 How to reach me: bhaveshxop@gmail.com;
 
@@ -31,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/bhaveshxop/Predictive_analysis_for_demand_forecasting">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=bhaveshxop&show_icons=true&hide_border=true" />
   </a>
 
@@ -55,10 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bhaveshxop/bhaveshxop.svg" />
 </p>
@@ -67,12 +63,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/bhaveshxop/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  <a href="https://github.com/bhaveshxop/AutomaticTimeTableGenerator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshxop&repo=AutomaticTimeTableGenerator" />
   </a>
-  <a href="https://github.com/bhaveshxop/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  <a href="https://github.com/bhaveshxop/Predictive_analysis_for_demand_forecasting">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshxop&repo=Predictive_analysis_for_demand_forecasting" />
   </a>
 </p>
-
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
