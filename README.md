@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Thinking];
+- 👨🏽‍💻 I’m currently working on unity projects;
 - 🌱 I’m currently learning React and c#; 
 - 👯 I’m looking to collaborate 🤝;
 - ⚡️ I have won 3 hackathons;
